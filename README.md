@@ -14,9 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, TypeScript,PHP
-- **Frontend:** React, Next.js,HTML CSS
-- **Backend:** Node.js, Express, Django
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools & Platforms:** AWS, Git, GitHub Actions
+## 🛠️ Tech Stack:
+C C# C++ Dart HTML5 Java JavaScript PHP PowerShell Python R TypeScript Azure Firebase Google Cloud Oracle Bootstrap Express.js Flutter Laravel Next JS NodeJS OpenCV React Hook Form React Router React Query React TailwindCSS Vue.js Vite Apache Apache Maven Apache Tomcat Firebase MariaDB MicrosoftSQLServer MongoDB MySQL SQLite Adobe Adobe Acrobat Reader Adobe Creative Cloud Adobe Photoshop Canva Figma Matplotlib NumPy Pandas Plotly TensorFlow GitHub
