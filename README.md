@@ -14,5 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🛠️ Tech Stack:
-C C# C++ Dart HTML5 Java JavaScript PHP PowerShell Python R TypeScript Azure Firebase Google Cloud Oracle Bootstrap Express.js Flutter Laravel Next JS NodeJS OpenCV React Hook Form React Router React Query React TailwindCSS Vue.js Vite Apache Apache Maven Apache Tomcat Firebase MariaDB MicrosoftSQLServer MongoDB MySQL SQLite Adobe Adobe Acrobat Reader Adobe Creative Cloud Adobe Photoshop Canva Figma Matplotlib NumPy Pandas Plotly TensorFlow GitHub
+## 🛠️ Tech Skills:
+## 🖥️ Tech Stack:
+
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
