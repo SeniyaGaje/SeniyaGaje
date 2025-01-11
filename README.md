@@ -1,9 +1,11 @@
 ## Hi there 👋
+ I'm Seniya Gajadeera a passionate Software Engineering Undergraduate with a drive to create impactful software solutions that merge creativity and technology. I'm constantly exploring new tools and technologies to enhance my skills and deliver high-quality, user-focused applications.
+
 
 <!--
 **SeniyaGaje/SeniyaGaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
