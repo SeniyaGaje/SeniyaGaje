@@ -51,11 +51,7 @@ I'm a software engineering student driven by a passion for crafting impactful so
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)  
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white)  
 
----
 
-## 📊 GitHub Stats  
-![Seniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeniyaGaje&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=SeniyaGaje&theme=radical)  
 
 ---
 
@@ -68,5 +64,5 @@ I'm a software engineering student driven by a passion for crafting impactful so
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/seniya-gajadeera-b3520032b/))  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SeniyaGaje)  
