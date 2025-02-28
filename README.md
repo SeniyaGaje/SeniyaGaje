@@ -3,15 +3,6 @@
 
 I'm a software engineering student driven by a passion for crafting impactful solutions that blend creativity and technology. Always eager to explore cutting-edge tools and frameworks, I strive to develop high-quality, user-focused applications.  
 
----
-
-## 📌 About Me  
-- 🎯 **Focused on:** IoT, AI, Embedded Systems, and Full-Stack Development  
-- 💡 **Currently Working on:** A Smart Plug Project using ESP32, Firebase, and Flutter  
-- 🏆 **Certifications:**  
-  - Oracle Academy - Database Design  
-  - LinkedIn Guidance Session (MIT)  
-- 🎮 **Fun Fact:** I enjoy gaming and experimenting with hardware hacks!  
 
 ---
 
