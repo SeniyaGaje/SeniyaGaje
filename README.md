@@ -27,15 +27,6 @@ I'm a software engineering student driven by a passion for crafting impactful so
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white)  
 
 
-
----
-
-## 🚀 Featured Projects  
-- 🔌 **Smart Plug Project** - IoT-based power monitoring and control with Firebase.  
-  [🔗 GitHub Repo](https://github.com/your-repo-link)  
-- 🏥 **Skin Lesion Detector** - AI-powered medical tool for analyzing skin lesions.  
-  [🔗 GitHub Repo](https://github.com/your-repo-link)  
-
 ---
 
 ## 📫 Connect with Me  
