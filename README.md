@@ -13,13 +13,13 @@ I'm a software engineering student driven by a passion for crafting impactful so
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
 
 ### 🔧 Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
 
 ### 🛢️ Databases  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white)  
 
 ### ☁️ Cloud — AWS  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?logo=awslambda&logoColor=white) ![Amazon S3](https://img.shields.io/badge/-S3-569A31?logo=amazons3&logoColor=white) ![Amazon EC2](https://img.shields.io/badge/-EC2-FF9900?logo=amazonec2&logoColor=white) ![Amazon API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white) ![Amazon S3](https://img.shields.io/badge/-S3-569A31?logo=amazons3&logoColor=white) ![Amazon EC2](https://img.shields.io/badge/-EC2-FF9900?logo=amazonec2&logoColor=white) ![Amazon API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=white)  
 
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
