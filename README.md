@@ -18,9 +18,10 @@
 
 </div>
 
-╔══════════════════════════════════════════════════════════════╗
-║              >> BOOT SEQUENCE INITIATED...                   ║
-╚══════════════════════════════════════════════════════════════╝
+```javascript
+ ╔══════════════════════════════════════════════════════════════╗
+ ║              >> BOOT SEQUENCE INITIATED...                   ║
+ ╚══════════════════════════════════════════════════════════════╝
 
 const SENIYA = {
   codename  : "SeniyaGaje",
@@ -32,6 +33,7 @@ const SENIYA = {
 };
 
 console.log(">> Neural link established. Welcome, Seniya.");
+// ✅ All systems operational
 ```
 
 ---
@@ -153,4 +155,4 @@ console.log(">> Neural link established. Welcome, Seniya.");
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&height=120&section=footer"/>
 
-</div>
+</div>****
