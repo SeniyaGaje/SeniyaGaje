@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Seniya%20Gajadeera&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Software%20Engineer%20%7C%20Tech%20Enthusiast%20%7C%20Innovator%20%E2%9A%A1&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Seniya%20Gajadeera&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Software%20Engineer%20%7C%20Tech%20Enthusiast%20%7C%20Innovator%20%E2%9A%A1&descAlignY=58&descSize=16"/>
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Initializing+system...;Loading+Seniya.exe...;%3E+Full+Stack+Developer+online+%E2%9C%94;%3E+Cloud+Engineer+online+%E2%9C%94;%3E+IoT+Innovator+online+%E2%9C%94;%3E+All+systems+operational+%F0%9F%9F%A2)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Initializing+system...;Loading+Seniya.exe...;%3E+Full+Stack+Developer+online+%E2%9C%94;%3E+Cloud+Engineer+online+%E2%9C%94;%3E+IoT+Innovator+online+%E2%9C%94;%3E+All+systems+operational+%F0%9F%9F%A2)
 
 </div>
 
@@ -16,27 +16,9 @@
 
 ## ⚡ `SYSTEM://ABOUT_ME` ⚡
 
-</div>
+<br/>
 
-<div align="center">
-
-```javascript
-╔═══════════════════════════════════════════════════════════════╗
-║                  // boot sequence initiated...                ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║   const SENIYA = {                                            ║
-║     codename  : "SeniyaGaje",                                 ║
-║     class     : "Full Stack Engineer",                        ║
-║     weapons   : ["Spring Boot", "React", "AWS", "Flutter"],   ║
-║     currentOp : "Building the future, one commit at a time 🚀"║
-║     weakness  : "Unsolved bugs at 2 AM 😅",                   ║
-║     cheatCode : "coffee.execute() → productivity.MAX()"       ║
-║   };                                                          ║
-║                                                               ║
-║   console.log(">> Neural link established. Welcome, Seniya.");║
-╚═══════════════════════════════════════════════════════════════╝
-```
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1&pause=99999999&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=280&lines=╔══════════════════════════════════════════════════════════════╗;║+++++++++++++//+boot+sequence+initiated...+++++++++++++++++++║;╠══════════════════════════════════════════════════════════════╣;║++const+SENIYA+=+{+++++++++++++++++++++++++++++++++++++++++++║;║++++codename++:+"SeniyaGaje",++++++++++++++++++++++++++++++++║;║++++class+++++:+"Full+Stack+Engineer",++++++++++++++++++++++++║;║++++weapons+++:+["Spring+Boot",+"React",+"AWS",+"Flutter"],+++║;║++++currentOp+:+"Building+the+future,+one+commit+at+a+time+🚀"║;║++++weakness++:+"Unsolved+bugs+at+2+AM+😅",++++++++++++++++++║;║++++cheatCode+:+"coffee.execute()+→+productivity.MAX()"++++++║;║++};++++++++++++++++++++++++++++++++++++++++++++++++++++++++++║;║+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++║;║++console.log(">>+Neural+link+established.+Welcome,+Seniya.");║;╚══════════════════════════════════════════════════════════════╝)
 
 </div>
 
@@ -130,16 +112,6 @@
 
 ---
 
-## 🏆 `SYSTEM://TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SeniyaGaje&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
-
-</div>
-
----
-
 ## 🐍 `SYSTEM://CONTRIBUTION_MATRIX`
 
 <div align="center">
@@ -167,6 +139,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
 
 </div>
