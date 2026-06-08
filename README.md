@@ -19,6 +19,23 @@
 </div>
 
 ```javascript
+// ╔══════════════════════════════════════════════════════════════╗
+// ║              >> BOOT SEQUENCE INITIATED...                   ║
+// ╚══════════════════════════════════════════════════════════════╝
+
+const SENIYA = {
+  codename  : "SeniyaGaje",
+  class     : "Full Stack Engineer",
+  weapons   : ["Spring Boot", "React", "AWS", "Flutter"],
+  currentOp : "Building the future, one commit at a time 🚀",
+  weakness  : "Unsolved bugs at 2 AM 😅",
+  cheatCode : "coffee.execute() → productivity.MAX()"
+};
+
+console.log(">> Neural link established. Welcome, Seniya.");
+// ✅ All systems operational
+```
+
 ---
 
 <div align="center">
