@@ -33,7 +33,6 @@ const SENIYA = {
 };
 
 console.log(">> Neural link established. Welcome, Seniya.");
-// ✅ All systems operational
 ```
 
 ---
