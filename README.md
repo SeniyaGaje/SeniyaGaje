@@ -16,26 +16,27 @@
 
 ## ⚡ `SYSTEM://ABOUT_ME` ⚡
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Identity Matrix
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ System Config
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=700&lines=%3E+Crafting+impactful+solutions+that+blend+creativity+%26+tech...;%3E+Always+exploring+cutting-edge+tools+%26+frameworks...;%3E+Driven+by+passion+for+high-quality%2C+user-focused+apps...;%3E+coffee.execute()+%E2%86%92+productivity.MAX())
+```javascript
+╔═══════════════════════════════════════════════════════════════╗
+║                  // boot sequence initiated...                ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║   const SENIYA = {                                            ║
+║     codename  : "SeniyaGaje",                                 ║
+║     class     : "Full Stack Engineer",                        ║
+║     weapons   : ["Spring Boot", "React", "AWS", "Flutter"],   ║
+║     currentOp : "Building the future, one commit at a time 🚀"║
+║     weakness  : "Unsolved bugs at 2 AM 😅",                   ║
+║     cheatCode : "coffee.execute() → productivity.MAX()"       ║
+║   };                                                          ║
+║                                                               ║
+║   console.log(">> Neural link established. Welcome, Seniya.");║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -133,7 +134,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SeniyaGaje&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SeniyaGaje&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 
 </div>
 
