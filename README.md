@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Seniya%20Gajadeera&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Software%20Engineer%20%7C%20Tech%20Enthusiast%20%7C%20Innovator%20%E2%9A%A1&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&height=200&section=header&text=Seniya%20Gajadeera&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Software%20Engineer%20%7C%20Tech%20Enthusiast%20%7C%20Innovator%20%E2%9A%A1&descAlignY=58&descSize=16"/>
 
 </div>
 
@@ -16,12 +16,9 @@
 
 ## ⚡ `SYSTEM://ABOUT_ME` ⚡
 
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1&pause=99999999&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=280&lines=╔══════════════════════════════════════════════════════════════╗;║+++++++++++++//+boot+sequence+initiated...+++++++++++++++++++║;╠══════════════════════════════════════════════════════════════╣;║++const+SENIYA+=+{+++++++++++++++++++++++++++++++++++++++++++║;║++++codename++:+"SeniyaGaje",++++++++++++++++++++++++++++++++║;║++++class+++++:+"Full+Stack+Engineer",++++++++++++++++++++++++║;║++++weapons+++:+["Spring+Boot",+"React",+"AWS",+"Flutter"],+++║;║++++currentOp+:+"Building+the+future,+one+commit+at+a+time+🚀"║;║++++weakness++:+"Unsolved+bugs+at+2+AM+😅",++++++++++++++++++║;║++++cheatCode+:+"coffee.execute()+→+productivity.MAX()"++++++║;║++};++++++++++++++++++++++++++++++++++++++++++++++++++++++++++║;║+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++║;║++console.log(">>+Neural+link+established.+Welcome,+Seniya.");║;╚══════════════════════════════════════════════════════════════╝)
-
 </div>
 
+```javascript
 ---
 
 <div align="center">
@@ -139,6 +136,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&height=120&section=footer"/>
 
 </div>
