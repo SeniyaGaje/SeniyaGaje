@@ -18,10 +18,9 @@
 
 </div>
 
-```javascript
-// ╔══════════════════════════════════════════════════════════════╗
-// ║              >> BOOT SEQUENCE INITIATED...                   ║
-// ╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║              >> BOOT SEQUENCE INITIATED...                   ║
+╚══════════════════════════════════════════════════════════════╝
 
 const SENIYA = {
   codename  : "SeniyaGaje",
@@ -33,7 +32,6 @@ const SENIYA = {
 };
 
 console.log(">> Neural link established. Welcome, Seniya.");
-// ✅ All systems operational
 ```
 
 ---
